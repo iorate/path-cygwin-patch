@@ -1,6 +1,6 @@
 {
   "name": "path-cygwin-patch",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Replace methods of 'path' to handle paths starting with '/' in Cygwin or MSYS2.",
   "main": "index.js",
   "scripts": {

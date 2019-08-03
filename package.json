@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/iorate/path-cygwin-path.git"
+    "url": "git+https://github.com/iorate/path-cygwin-patch.git"
   },
   "keywords": [
     "path",

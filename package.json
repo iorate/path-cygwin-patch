@@ -1,0 +1,27 @@
+{
+  "name": "path-cygwin-patch",
+  "version": "1.0.0",
+  "description": "Replace methods of 'path' to handle paths starting with '/' in Cygwin or MSYS2.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iorate/path-cygwin-path.git"
+  },
+  "keywords": [
+    "path",
+    "Cygwin",
+    "MSYS2"
+  ],
+  "author": "iorate",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iorate/path-cygwin-path/issues"
+  },
+  "homepage": "https://github.com/iorate/path-cygwin-path#readme",
+  "devDependencies": {
+    "mocha": "^6.2.0"
+  }
+}
